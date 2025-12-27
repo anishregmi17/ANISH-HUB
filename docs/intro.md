@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Welcome to PHP & Laravel Tutorials
+# Welcome to Anish Hub
 
-Welcome to **Anish's PHP and Laravel Tutorial Hub**! This comprehensive guide will take you from PHP basics to advanced Laravel development.
+Welcome to **Anish's Developer Hub**! This comprehensive guide will take you from PHP basics to advanced Laravel development, along with essential tools like Filament and Git.
 
 ## What You'll Learn
 
@@ -15,6 +15,8 @@ This tutorial series covers:
 - **Laravel Basics**: Installation, routing, controllers, views
 - **Laravel Intermediate**: Database, Eloquent ORM, authentication
 - **Laravel Advanced**: API development, testing, deployment, and best practices
+- **Filament**: Build powerful admin panels and TALL stack applications
+- **Git & GitHub**: Version control mastery from basics to advanced workflows
 
 ## Prerequisites
 

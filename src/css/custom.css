@@ -134,20 +134,28 @@ html[data-theme='dark'] .feature-card {
 .footer .container {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: flex-start; /* Align to top */
   flex-direction: row;
 }
 
 .footer__links {
   margin-bottom: 0 !important;
-  width: 100%;
-  justify-content: space-between;
+  flex: 1; /* Take available header space */
   display: flex !important;
+  gap: 4rem; /* Add spacing between link columns */
 }
 
-/* Hide copyright separator if we want very compact */
+/* Ensure copyright has space and is right aligned */
+.footer__bottom {
+  margin-top: 0 !important;
+  text-align: right;
+  min-width: max-content; /* Prevent wrapping */
+  margin-left: 2rem;
+}
+
 .footer__copyright {
-  margin-top: 1rem !important;
-  padding-top: 1rem !important;
+  margin-top: 0 !important;
+  font-size: 0.875rem;
+  line-height: 1.5;
 }
 

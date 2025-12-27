@@ -1,0 +1,8 @@
+﻿{
+  "label": "Intermediate",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Dive deeper into branching, merging, remote repositories, and collaboration."
+  }
+}

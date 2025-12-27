@@ -76,10 +76,6 @@ const config: Config = {
     },
     navbar: {
       title: "ANISH HUB",
-      logo: {
-        alt: "Anish Logo",
-        src: "img/logo.svg",
-      },
       items: [
         {
           type: "docSidebar",
@@ -125,7 +121,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Anish. Software Developer from Nepal.`,
+      copyright: `Copyright © ${new Date().getFullYear()}<br/>Anish Regmi`,
     },
     prism: {
       theme: prismThemes.github,

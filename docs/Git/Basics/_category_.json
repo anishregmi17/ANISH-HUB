@@ -1,0 +1,8 @@
+﻿{
+  "label": "Basics",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn the fundamentals of Git, installation, configuration, and basic commands."
+  }
+}
