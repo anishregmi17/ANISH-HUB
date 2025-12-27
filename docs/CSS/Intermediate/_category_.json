@@ -1,0 +1,8 @@
+﻿{
+  "label": "Intermediate",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Layout mastery with Flexbox, Grid, Positioning, and Responsive Design."
+  }
+}

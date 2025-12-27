@@ -1,0 +1,8 @@
+﻿{
+  "label": "Basics",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Fundamentals of CSS: Selectors, Colors, Typography, and the Box Model."
+  }
+}
