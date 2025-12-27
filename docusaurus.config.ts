@@ -110,6 +110,12 @@ const config: Config = {
           position: "left",
           label: "Git & GitHub",
         },
+        {
+          type: "docSidebar",
+          sidebarId: "dockerSidebar",
+          position: "left",
+          label: "Docker",
+        },
         { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/anishregmi17",
