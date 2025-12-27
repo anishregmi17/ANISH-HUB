@@ -82,6 +82,12 @@ const config: Config = {
         },
         {
           type: "docSidebar",
+          sidebarId: "tailwindSidebar",
+          position: "left",
+          label: "Tailwind",
+        },
+        {
+          type: "docSidebar",
           sidebarId: "phpSidebar",
           position: "left",
           label: "PHP",
@@ -142,7 +148,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}<br/>Anish Regmi`,
+      // copyright: `Copyright © ${new Date().getFullYear()}<br/>Anish Regmi`,
     },
     prism: {
       theme: prismThemes.github,
