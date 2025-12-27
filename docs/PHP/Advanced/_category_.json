@@ -1,8 +1,8 @@
-{
-  "label": "Advanced",
-  "position": 3,
+﻿{
+  "label": "Advanced Topics",
+  "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Master advanced PHP concepts including design patterns, security, performance optimization, autoloading, and best practices for building enterprise applications."
+    "description": "Security, Performance, and Design Patterns."
   }
 }

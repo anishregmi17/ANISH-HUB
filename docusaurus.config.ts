@@ -82,6 +82,12 @@ const config: Config = {
         },
         {
           type: "docSidebar",
+          sidebarId: "tailwindSidebar",
+          position: "left",
+          label: "Tailwind",
+        },
+        {
+          type: "docSidebar",
           sidebarId: "phpSidebar",
           position: "left",
           label: "PHP",
@@ -103,6 +109,12 @@ const config: Config = {
           sidebarId: "gitSidebar",
           position: "left",
           label: "Git & GitHub",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "dockerSidebar",
+          position: "left",
+          label: "Docker",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
@@ -142,7 +154,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}<br/>Anish Regmi`,
+      // copyright: `Copyright © ${new Date().getFullYear()}<br/>Anish Regmi`,
     },
     prism: {
       theme: prismThemes.github,

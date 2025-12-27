@@ -1,0 +1,8 @@
+﻿{
+  "label": "Intermediate",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Responsive design, states, and flex/grid with utilities."
+  }
+}
