@@ -28,7 +28,7 @@ We have structured our curriculum into clear, manageable paths. Choose your focu
 
 *   **[PHP](./PHP/Basics/introduction)**: The language that powers 78% of the web. Master the syntax, OOP, and security best practices.
 *   **[Laravel](./Laravel/Basics/introduction)**: The elegance of PHP. Learn the most popular PHP framework for building modern web applications.
-*   **[Filament](./Filament/introduction)**: Supercharge your Laravel apps. Build stunning admin panels and TALL stack apps in record time.
+*   **[Filament](./Filament/Introduction)**: Supercharge your Laravel apps. Build stunning admin panels and TALL stack apps in record time.
 
 ### Essential Tools
 *Professional workflows for modern developers.*
@@ -56,7 +56,7 @@ There is no better time than now. Pick your path and start coding!
 
 | Beginner Path | Intermediate Path | Advanced Path |
 | :--- | :--- | :--- |
-| [**Start HTML5** ➡️](./HTML/Basics/introduction) | [**Start Laravel** ➡️](./Laravel/Basics/introduction) | [**Filament Magic** ➡️](./Filament/introduction) |
+| [**Start HTML5** ➡️](./HTML/Basics/introduction) | [**Start Laravel** ➡️](./Laravel/Basics/introduction) | [**Filament Magic** ➡️](./Filament/Introduction) |
 | [**Start CSS3** ➡️](./CSS/Basics/introduction) | [**Start Tailwind** ➡️](./Tailwind/Basics/introduction) | [**Master Git** ➡️](./Git/Basics/introduction) |
 | | | [**Learn Docker** ➡️](./Docker/Basics/introduction) |
 
