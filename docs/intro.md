@@ -30,4 +30,4 @@ Before you begin, make sure you have:
 
 Start with the **PHP Basics** section to build a solid foundation, then progress through intermediate and advanced topics. Once comfortable with PHP, move on to Laravel tutorials.
 
-Ready to begin? Let's start with [PHP Basics - Introduction](./php-basics/introduction)!
+Ready to begin? Let's start with [PHP Basics - Introduction](./PHP/Basics/introduction)!

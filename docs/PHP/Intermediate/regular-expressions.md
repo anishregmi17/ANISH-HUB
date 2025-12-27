@@ -221,5 +221,5 @@ if (preg_match($pattern, $password)) {
 
 ## Next Steps
 
-Congratulations! You've completed PHP Intermediate. Now let's move to [PHP Advanced](./../php-advanced/introduction) to learn even more advanced concepts!
+Congratulations! You've completed PHP Intermediate. Now let's move to [PHP Advanced](../Advanced/introduction) to learn even more advanced concepts!
 

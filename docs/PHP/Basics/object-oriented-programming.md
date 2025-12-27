@@ -239,5 +239,5 @@ echo $duck->fly();
 
 ## Next Steps
 
-Congratulations! You've completed PHP Basics. Now let's move to [PHP Intermediate](./../php-intermediate/introduction) to learn more advanced concepts.
+Congratulations! You've completed PHP Basics. Now let's move to [PHP Intermediate](../Intermediate/introduction) to learn more advanced concepts.
 

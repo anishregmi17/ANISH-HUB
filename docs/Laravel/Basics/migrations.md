@@ -198,5 +198,5 @@ Schema::create('posts', function (Blueprint $table) {
 
 ## Next Steps
 
-Congratulations! You've completed Laravel Basics. Now let's move to [Laravel Intermediate](./../laravel-intermediate/introduction) to learn more advanced concepts!
+Congratulations! You've completed Laravel Basics. Now let's move to [Laravel Intermediate](../Intermediate/introduction) to learn more advanced concepts!
 

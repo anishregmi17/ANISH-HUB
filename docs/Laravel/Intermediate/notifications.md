@@ -103,5 +103,5 @@ $user->unreadNotifications->markAsRead();
 
 ## Next Steps
 
-Congratulations! You've completed Laravel Intermediate. Now let's move to [Laravel Advanced](./../laravel-advanced/introduction)!
+Congratulations! You've completed Laravel Intermediate. Now let's move to [Laravel Advanced](../Advanced/introduction)!
 

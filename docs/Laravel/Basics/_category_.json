@@ -1,9 +1,8 @@
 {
-  "label": "Laravel Basics",
-  "position": 5,
+  "label": "Basics",
+  "position": 1,
   "link": {
     "type": "generated-index",
     "description": "Get started with Laravel framework. Learn installation, routing, controllers, views, and the fundamentals of building web applications with Laravel."
   }
 }
-

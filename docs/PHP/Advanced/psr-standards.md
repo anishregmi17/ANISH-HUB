@@ -239,5 +239,5 @@ vendor/bin/phpcbf --standard=PSR12 src/
 
 ## Next Steps
 
-Congratulations! You've completed PHP Advanced. Now let's move to [Laravel Basics](./../laravel-basics/introduction) to start learning the Laravel framework!
+Congratulations! You've completed PHP Advanced. Now let's move to [Laravel Basics](../../Laravel/Basics/introduction) to start learning the Laravel framework!
 

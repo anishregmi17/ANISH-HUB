@@ -1,9 +1,8 @@
 {
-  "label": "PHP Intermediate",
-  "position": 3,
+  "label": "Intermediate",
+  "position": 2,
   "link": {
     "type": "generated-index",
     "description": "Take your PHP skills to the next level. Learn about namespaces, traits, error handling, file operations, and more advanced concepts."
   }
 }
-
