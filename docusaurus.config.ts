@@ -79,9 +79,33 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "htmlSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "HTML",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "phpSidebar",
+          position: "left",
+          label: "PHP",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "laravelSidebar",
+          position: "left",
+          label: "Laravel",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "filamentSidebar",
+          position: "left",
+          label: "Filament",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "gitSidebar",
+          position: "left",
+          label: "Git & GitHub",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
