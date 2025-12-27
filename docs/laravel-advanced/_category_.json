@@ -1,0 +1,9 @@
+{
+  "label": "Laravel Advanced",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Master advanced Laravel concepts including API development, testing, performance optimization, deployment, service providers, facades, and building enterprise applications."
+  }
+}
+

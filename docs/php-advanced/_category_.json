@@ -1,0 +1,9 @@
+{
+  "label": "PHP Advanced",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Master advanced PHP concepts including design patterns, security, performance optimization, autoloading, and best practices for building enterprise applications."
+  }
+}
+

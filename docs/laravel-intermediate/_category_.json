@@ -1,0 +1,9 @@
+{
+  "label": "Laravel Intermediate",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Deep dive into Laravel's intermediate features including advanced Eloquent relationships, authentication, authorization, middleware, validation, and more."
+  }
+}
+
