@@ -105,15 +105,15 @@ const config: Config = {
               label: "Tutorial",
               to: "/docs/intro",
             },
+            {
+              label: "Blog",
+              to: "/blog",
+            },
           ],
         },
         {
           title: "More",
           items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
             {
               label: "GitHub",
               href: "https://github.com/anishregmi17",
@@ -125,7 +125,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Anish. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Anish. Software Developer from Nepal.`,
     },
     prism: {
       theme: prismThemes.github,
