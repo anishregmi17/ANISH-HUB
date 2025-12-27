@@ -11,6 +11,7 @@ Welcome to **Anish's Developer Hub**! This comprehensive guide will take you fro
 This tutorial series covers:
 
 - **HTML5**: The complete guide from structure to modern APIs
+- **CSS3**: Styling, layouts (Flexbox/Grid), animations, and responsive design
 - **PHP Fundamentals**: Variables, functions, OOP, and more
 - **PHP Advanced Concepts**: Design patterns, security, performance optimization
 - **Laravel Basics**: Installation, routing, controllers, views
