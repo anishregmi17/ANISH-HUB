@@ -1,0 +1,8 @@
+{
+  "label": "Globals",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Global Alpine methods for registering data, stores, and more."
+  }
+}

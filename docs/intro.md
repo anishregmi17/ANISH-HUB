@@ -21,9 +21,9 @@ We have structured our curriculum into clear, manageable paths. Choose your focu
 *   **[HTML5](./HTML/Basics/introduction)**: The structural foundation of the web. Learn semantic markup, forms, and modern APIs.
 *   **[CSS3](./CSS/Basics/introduction)**: Master the art of styling. From Flexbox and Grid to advanced animations and responsive design.
 *   **[Tailwind CSS](./Tailwind/Basics/introduction)**: Embrace the utility-first revolution. Build modern UIs rapidly with Tailwind v4.
+*   **[Alpine.js](./AlpineJS/intro)**: A rugged, minimal framework for composing JavaScript behavior in your markup.
 
 ###  Backend Power
-### Backend Power
 *Create robust, secure, and scalable server-side applications.*
 
 *   **[PHP](./PHP/Basics/introduction)**: The language that powers 78% of the web. Master the syntax, OOP, and security best practices.

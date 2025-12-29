@@ -1,0 +1,8 @@
+{
+  "label": "Alpine.js",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup."
+  }
+}

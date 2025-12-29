@@ -1,0 +1,8 @@
+{
+  "label": "Magics",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Special properties and methods accessible from within Alpine.js expressions."
+  }
+}
