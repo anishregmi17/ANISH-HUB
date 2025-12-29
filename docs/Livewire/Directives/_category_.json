@@ -1,0 +1,8 @@
+{
+  "label": "Directives",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "The 'wire:' attributes used to add behavior to your templates."
+  }
+}
