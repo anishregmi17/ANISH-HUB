@@ -106,6 +106,12 @@ const config: Config = {
         },
         {
           type: "docSidebar",
+          sidebarId: "livewireSidebar",
+          position: "left",
+          label: "Livewire",
+        },
+        {
+          type: "docSidebar",
           sidebarId: "filamentSidebar",
           position: "left",
           label: "Filament",

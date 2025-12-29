@@ -28,6 +28,7 @@ We have structured our curriculum into clear, manageable paths. Choose your focu
 
 *   **[PHP](./PHP/Basics/introduction)**: The language that powers 78% of the web. Master the syntax, OOP, and security best practices.
 *   **[Laravel](./Laravel/Basics/introduction)**: The elegance of PHP. Learn the most popular PHP framework for building modern web applications.
+*   **[Livewire](./Livewire/intro)**: Build dynamic interfaces without leaving Laravel. A key part of the TALL stack.
 *   **[Filament](./Filament/Introduction)**: Supercharge your Laravel apps. Build stunning admin panels and TALL stack apps in record time.
 
 ### Essential Tools
