@@ -88,6 +88,12 @@ const config: Config = {
         },
         {
           type: "docSidebar",
+          sidebarId: "alpineSidebar",
+          position: "left",
+          label: "Alpine",
+        },
+        {
+          type: "docSidebar",
           sidebarId: "phpSidebar",
           position: "left",
           label: "PHP",
